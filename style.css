@@ -3,4 +3,8 @@ body{
 }
 div{
 	border-style: double;
+	text-align: center;
+}
+#poop{
+	text-align: center;
 }
