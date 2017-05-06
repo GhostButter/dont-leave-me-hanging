@@ -1,5 +1,5 @@
 body{
-	background-color: #8EFF77
+	background-image: url("https://media.giphy.com/media/zDrQxFFgiiGoU/giphy.gif");
 }
 div{
 	border-style: double;
@@ -7,4 +7,9 @@ div{
 }
 #poop{
 	text-align: center;
+}
+#guesses-container{
+	 height: 400px;
+	 width: 550px;
+	background-image: url("https://img.memesuper.com/14f406b13ce9941dfd4873207563b600_memes-en-gif-memesuper-owned-meme-gif_550-400.gif");
 }
